@@ -10,9 +10,10 @@ You can also pull request at github: github.com/HoengSaan/rime-kanas
 
 シリトリ学会假名入力
 
-This is a schema designated for playing Shiritori(しりとり) fairly which is no text predication(予測入力) to impact the challengers.
+This is a schema basic on rime-kana, which is designated for playing Shiritori(しりとり) fairly which is no text predication(予測入力) to impact the challengers.
 
-I didn't do many change, the only thing I do is make the typing experience more similar to the ordinary input in the market(such as Microsoft Japanese IME).
+I didn't do many change to rime-kana, the only thing I do is make the typing experience more similar to the ordinary input in the market(such as Microsoft Japanese IME).
+Just to mention it that I have add all the "phrase" in Microsoft Jpaanese IME that rime-kana hasn't featured because someone ask me.
 
 You can type hiragana as normal, but you need to hold shift to type katakana in case I didn't change it. (Shiritori doesn't care you use either hiragana or katakana)
 
