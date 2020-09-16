@@ -35,7 +35,7 @@ However, If you can send me your keyboard design, I definitely appreciate that.
 ----
 
 # rime-kanas
-仮名（かたかな・ヒラガナ）のみを入力するための入力方式です。
+仮名（ひらがな/カタガナ）のみを入力するための入力方式です。
 
 # 概要
 シリトリ学会假名入力
