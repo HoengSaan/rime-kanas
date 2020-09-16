@@ -66,8 +66,12 @@ speller:
     - derive/ZZI/JJI/
     - derive/^zy([aueo])/j$1/
     - derive/^ZY([AUEO])/J$1/
+    - derive/^zy([aueo])/jy$1/
+    - derive/^ZY([AUEO])/JY$1/
     - derive/zzy([aueo])/jj$1/
     - derive/ZZY([AUEO])/JJ$1/
+    - derive/zzy([aueo])/jjy$1/
+    - derive/ZZY([AUEO])/JJY$1/
     - derive/tu/tsu/
     - derive/TU/TSU/
     - derive/du/dzu/
