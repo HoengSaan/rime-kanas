@@ -31,3 +31,19 @@ In most of the Rime schema, you are type with space key becasue that how common 
 
 This schema use some key to type specify words, it shouldn't be big issue.
 However, If you can send me your keyboard design, I definitely appreciate that.
+
+----
+
+# rime-kanas
+仮名（かたかな・ヒラガナ）のみを入力するための入力方式です。
+
+# 概要
+シリトリ学会假名入力
+
+これは、rime-kana から派生した Rime Schema で、元々はしりとりを、予測変換に影響されずに公平にやるために作られました。
+
+rime-kana からはさほど実装を変更していないが、唯一、Microsoft Japanese IME のような典型的なローマ字入力方式に近づいてみました。rime-kana にはなかった Microsoft Japanese IME の phrase も追加しました。
+
+普通にタイプするとひらがな、Shift を押しながらタイプするとカタカナになります。（しりとりではひらがなとカタカナの区別が無視されますが）
+
+しりとりをやるだけでなく、例えば仮名を勉強するための基礎ツールとしても使えます。
