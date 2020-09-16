@@ -6,6 +6,8 @@ Send the email to <zungsaan@gmail.com> for issue report or suggesiton.
 
 You can also pull request at github: github.com/HoengSaan/rime-kanas
 
+Showcase: https://www.youtube.com/watch?v=XkDt264fz4U&feature=youtu.be
+
 # Introduction
 
 シリトリ学会假名入力
