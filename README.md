@@ -23,7 +23,7 @@ Beside playing Shiritori, you might can use this as an elementary tool to study 
 
 # Issues Faced
 
-I don't how RIME work and I don't have any programming experience(. I didn't change the schema much (only algerba) because I don't want to break anything.
+I don't how RIME work and I don't have any programming experience. I didn't change the schema much (only algerba) because I don't want to break anything.
 
 ## Issue 1: Typing
 
